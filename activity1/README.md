@@ -8,6 +8,8 @@
 - Refer to the following link. Discuss how the Recursive Fibonacci works:
   https://www.cs.usfca.edu/~galles/visualization/DPFib.html
 
+  DONE in the class
+
 ## Task 2
 
 There are `n` stairs, a person standing at the bottom wants to reach the top. The person can climb either 1 stair or 2 stairs at a time. There is a simple implementations in `./src/` folder. Discuss how the code works.
