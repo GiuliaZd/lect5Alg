@@ -4,6 +4,7 @@
 
 Refer to the following link. Discuss how the Recursive Fibonacci with Memoization works:
 https://www.cs.usfca.edu/~galles/visualization/DPFib.html
+done in class
 
 ## Task 2
 
@@ -16,6 +17,7 @@ The stair case problem can be solved based on the Fibonacci series. There is a s
 ## Task 3
 
 Explain how the code in `./src/staircase3.cpp` works.
+done in class
 
 ## Task 4: Individual (at home)
 
